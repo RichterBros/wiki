@@ -1,0 +1,58 @@
+* {
+  border: .1px solid rgba(255, 0, 0, 0);
+}
+
+ul {
+  list-style: none;
+}
+
+.sidebar {
+  background-color: lightgray;
+  height: 100%;
+  position: fixed;
+  width: 160px;
+}
+
+.container-fluid {
+  background-color: lightblue;
+  margin-left: 160px;
+  padding: 25px;
+  margin-top: 80px;
+}
+
+#welcome {
+  border: 1px solid gray;
+  background-color: lightgrey;
+  margin: 6px;
+}
+
+.panel-heading {
+  border: 1px solid black;
+  margin: 10px;
+}
+
+#green .panel {
+  background-color: lightgreen;
+}
+#green .panel-heading {
+  background-color: lightseagreen;
+}
+
+#blue .panel-heading {
+  background-color: lightcyan;
+
+
+  .col {
+    background-color: rgb(173, 230, 221);
+  
+  }
+
+.row{
+  background-color: gray;
+  
+  padding: 25px;
+}
+
+#logo {
+  padding-left: 18px;
+}
