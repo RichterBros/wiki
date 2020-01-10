@@ -6,6 +6,27 @@ ul {
   list-style: none;
 }
 
+.header {
+  background-color: red;
+  height: 80px;
+  position: fixed;
+  width: 50%;
+  padding-left: 180px;
+
+}
+
+.header-right {
+  background-color: green;
+  height: 80px;
+  position: fixed;
+  width: 100%;
+  padding-left: 180px;
+  
+  }
+ 
+
+
+
 .sidebar {
   background-color: lightgray;
   height: 100%;
